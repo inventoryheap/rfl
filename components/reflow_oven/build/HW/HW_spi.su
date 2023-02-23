@@ -1,0 +1,5 @@
+HW_spi.c:28:6:HW_SPI_Init	80	static
+HW_spi.c:72:13:HW_SPI_Transmit8	0	static
+HW_spi.c:81:13:HW_SPI_Transmit16	0	static
+HW_spi.c:87:13:HW_SPI_Transmit32	4	static
+HW_spi.c:93:16:HW_SPI_TransmitReceive8	0	static

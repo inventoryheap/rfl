@@ -1,0 +1,9 @@
+stw:
+  path: components/steering_wheel/
+network:
+  path: network/
+
+rfl:
+  path: components/reflow_oven/
+network:
+  path: network/

@@ -1,0 +1,7 @@
+PID.c:3:6:pid_initialize	24	static
+PID.c:12:6:pid_set_output_limits	40	static
+PID.c:31:6:pid_set_mode	16	static
+PID.c:41:6:pid_set_sample_time	24	static
+PID.c:55:6:pid_set_controller_direction	0	static
+PID.c:61:6:pid_set_tunings	24	static
+PID.c:74:6:pid_construct	32	static
